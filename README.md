@@ -14,7 +14,7 @@ The aim of this repository is to let my progress doing an intensive self learnin
    `pip install -r requirements.txt`
 3. Open with Jupyter Lab.
 
-## Próximos pasos
+## Next steps
 - Reinforce mathematical/statistical background.  
 - Learn Python from the beginning
 - Keep investigating the symbiosis of programming and AI
